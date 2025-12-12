@@ -2,7 +2,7 @@
 
 A simple WebSocket-based server + client for running **faster-whisper** transcription over WebSockets. The server listens on `localhost` and, by default, uses port **8762**. The client sends an audio file to the server and receives transcription results as JSON messages over the socket.
 
-> This repository assumes you already have Python installed (3.8+ recommended).
+> This repository assumes you already have Python installed (3.10+ recommended).
 
 ---
 
